@@ -24,25 +24,24 @@ Chapter 2: Hands on introduction to rust
 
 #### Chapters
 1. Getting Started
-	1.1. Installation
-	1.2. [Hello, World!](20221019184420.md)
-	1.3. [Hello, Cargo!](20221019185436.md)
+	1. Installation
+	2. [Hello, World!](20221019184420.md)
+	3. [Hello, Cargo!](20221019185436.md)
 2. [Programming a Guessing Game](20221019191447.md)
 3. [Common Programming Concepts](20221019205018.md)
-	3.1. [Variables and Mutability](20221019205739.md)
-	3.2. [Data Types](20221019212151.md)
-	3.3. [Functions](20221019214510.md)
-	3.4. [Comments](20221019220221.md)
-	3.5. [Control Flow](20221019220319.md)
+	1. [Variables and Mutability](20221019205739.md)
+	2. [Data Types](20221019212151.md)
+	3. [Functions](20221019214510.md)
+	4. [Comments](20221019220221.md)
+	5. [Control Flow](20221019220319.md)
 4. [Understanding Ownership](20221019221720.md)
-	4.1. [What Is Ownership?](20221019221858.md)
-	4.2. [References and Borrowing](20221020195035.md)
-	4.3. [The Slice Type](20221021164744.md)
-5. Using Structs to Structure Related Data
-	5.1. Defining and Instantiating Structs
-	5.2. An Example Program Using Structs
-	5.3. Method Syntax
-6. Enums and Pattern Matching
-	6.1. Defining an Enum
-	6.2. The match Control Flow Construct
-	6.3. Concise Control Flow with if let
+	1. [What Is Ownership?](20221019221858.md)
+	2. [References and Borrowing](20221020195035.md)
+	3. [The Slice Type](20221021164744.md)
+5. [Using Structs to Structure Related Data](20221115181348.md)
+6. [Enums and Pattern Matching](20221123141910.md)
+7. [Managing Growing Projects with Packages, Crates, and Modules](20221123220108.md)
+8. [Common Collections](20221123231002.md)
+9. [Error Handling](20221124135948.md)
+10. [Generic Types, Traits, and Lifetimes](20221124151552.md)
+11. [Writing Automated Tests](20221125151804.md)
