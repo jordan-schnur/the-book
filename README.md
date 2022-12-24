@@ -45,3 +45,5 @@ Chapter 2: Hands on introduction to rust
 9. [Error Handling](20221124135948.md)
 10. [Generic Types, Traits, and Lifetimes](20221124151552.md)
 11. [Writing Automated Tests](20221125151804.md)
+12. See `minigrep.zip` in the _code_exercises_ directory
+13. [Functional Language Features: Iterators and Closures](20221223172639.md)
